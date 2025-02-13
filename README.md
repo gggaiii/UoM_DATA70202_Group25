@@ -5,11 +5,12 @@ Project Description: [View on UoM Sharepoint]([https://website-name.com](https:/
 
 # Project Design  
 ## Tasks Allocation  
-| Part   | People | Deadline
-| -------- | ------- | ------- |
-| Task 1 | A    |    |
-| Task 2 | B    |    |
-| Task 3 | C    |    |
+| Part   | People | Deadline | Status |
+| -------- | ------- | ------- | ------- |
+| Task 1 |    |    |    |
+| Task 2 |    |    |    |
+| Task 3 |    |    |    |
+| Task 4 |    |    |    |
 
 ## Timeline  
 TBD
