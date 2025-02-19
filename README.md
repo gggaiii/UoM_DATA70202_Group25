@@ -6,7 +6,7 @@ Project Description: [View on UoM Sharepoint](https://livemanchesterac-my.sharep
 # Project Design  
 ## Tasks Allocation  
 | Part   | Deadline | Status |
-| -------- | -------  | ------- |
+| :--------: | :-------:  | :-------: |
 | Data Pre-processing |      | ongoing |
 | EDA |       |  ongoing  |
 | Modelling |      |  ongoing  |
