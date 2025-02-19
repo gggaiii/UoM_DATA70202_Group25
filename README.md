@@ -5,15 +5,13 @@ Project Description: [View on UoM Sharepoint](https://livemanchesterac-my.sharep
 
 # Project Design  
 ## Tasks Allocation  
-| Part   | People | Deadline | Status |
+| Part   | Deadline | Status |
 | -------- | ------- | ------- | ------- |
-| Task 1 |    |    |    |
-| Task 2 |    |    |    |
-| Task 3 |    |    |    |
-| Task 4 |    |    |    |
+| Data Pre-processing |      | ongoing |
+| EDA |       |  ongoing  |
+| Modelling |      |  ongoing  |
+| Report |     |  ongoing  |
 
 ## Timeline  
 TBD
-
-
 
