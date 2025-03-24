@@ -95,7 +95,7 @@ Task Division
 *To Jaden, Please do some literature review on `Prophet`, `ARIMA` and `LSTM`*  
 *To all, please remark the reference you use when writing the report*    
 
-**Please finish recording your part before 4th May and send to [James](mailto:james.askew-3@postgrad.manchester.ac.uk), but it would be better if you could finish before the easter break**
+**Please finish writing your part before 4th May and send to [James](mailto:james.askew-3@postgrad.manchester.ac.uk), but it would be better if you could finish before the easter break**
 
 
 
