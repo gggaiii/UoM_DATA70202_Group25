@@ -79,7 +79,7 @@ Please can everyone send the EDA expecially the visualisation works to him via T
 ### Report
 Task Division
 |  Part  |  Contributor  |
-| :--------: | :-------:  |
+| :-------- | :-------:  |
 |1. Introduction |  Kiko  |
 |2. Market Insight |  Kiko and Jaden  |
 |3. Data Pre-processing | Yulia |
