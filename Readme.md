@@ -31,6 +31,7 @@ Task 4 :04-04, 05-13
 ## Results
 ### By LSTM
 ![image](https://github.com/user-attachments/assets/facbb108-4946-4bda-9ac9-a2d74646cd84)
+See modelling codes here: [LSTM](https://github.com/gggaiii/UoM_DATA70202_Group25/blob/main/models/LSTM_Modelling.py)
 
 
 ## Task 1
