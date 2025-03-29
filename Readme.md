@@ -28,6 +28,11 @@ section Report
 Task 4 :04-04, 05-13
 ```
 
+## Results
+### By LSTM
+![image](https://github.com/user-attachments/assets/facbb108-4946-4bda-9ac9-a2d74646cd84)
+
+
 ## Task 1
 ### Task 1 Deadline
 1. 4th March, deliver to [Ishita](mailto:ishita.satija@postgrad.manchester.ac.uk)
