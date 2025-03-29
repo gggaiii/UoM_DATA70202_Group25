@@ -1,0 +1,35 @@
+Training Log for LSTM MIDAGRI Model
+========================================
+Epoch 1: Train Loss = 0.011124, Val Loss = 0.035323
+Epoch 2: Train Loss = 0.016911, Val Loss = 0.022810
+Epoch 3: Train Loss = 0.014008, Val Loss = 0.020349
+Epoch 4: Train Loss = 0.012903, Val Loss = 0.018452
+Epoch 5: Train Loss = 0.011354, Val Loss = 0.016601
+Epoch 6: Train Loss = 0.009486, Val Loss = 0.014819
+Epoch 7: Train Loss = 0.007604, Val Loss = 0.012991
+Epoch 8: Train Loss = 0.005774, Val Loss = 0.011247
+Epoch 9: Train Loss = 0.004138, Val Loss = 0.009569
+Epoch 10: Train Loss = 0.002890, Val Loss = 0.007488
+Epoch 11: Train Loss = 0.002124, Val Loss = 0.005561
+Epoch 12: Train Loss = 0.001747, Val Loss = 0.004422
+Epoch 13: Train Loss = 0.001596, Val Loss = 0.003976
+Epoch 14: Train Loss = 0.001547, Val Loss = 0.003898
+Epoch 15: Train Loss = 0.001543, Val Loss = 0.003994
+Epoch 16: Train Loss = 0.001563, Val Loss = 0.004174
+Epoch 17: Train Loss = 0.001595, Val Loss = 0.004393
+Epoch 18: Train Loss = 0.001630, Val Loss = 0.004616
+Epoch 19: Train Loss = 0.001662, Val Loss = 0.004812
+Epoch 20: Train Loss = 0.001685, Val Loss = 0.004950
+Epoch 21: Train Loss = 0.001694, Val Loss = 0.005019
+Epoch 22: Train Loss = 0.001689, Val Loss = 0.005018
+Epoch 23: Train Loss = 0.001674, Val Loss = 0.004973
+Epoch 24: Train Loss = 0.001655, Val Loss = 0.004917
+Early stopping triggered.
+
+Final Evaluation Metrics:
+MAE  : 0.3149
+MSE  : 0.1818
+RMSE : 0.4263
+MAPE : 4.82%
+
+Total Training Time: 12.60 seconds
