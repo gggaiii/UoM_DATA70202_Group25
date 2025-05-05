@@ -103,6 +103,17 @@ Task Division
 
 **Please finish writing your part before 4th May and send to [James](mailto:james.askew-3@postgrad.manchester.ac.uk), but it would be better if you could finish before the easter break**
 
+### Presentation
+| Part | Contributor | Length |
+| :---- | :----: | :----: |
+| Intro and Market Insight | Kiko | 1.5 mins |
+| Data Preprocessing | Julia | 1 min |
+| EDA | James and Ishita | 2 mins |
+| Method and Literature | Jaden | 1 min |
+| Modelling and Result | Harry | 3 mins |
+| Conclusion | Harry | 0.5 min |
+
+**Please finish updating report by `8th May`, finish recording video by `10th May`, send your recodings to [Harry](mailto:yuhang.xie-3@postgrad.manchester.ac.uk).
 
 
 
