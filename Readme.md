@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15387796.svg)](https://doi.org/10.5281/zenodo.15387796)
 # UoM DATA70202 Group25  
 **Topic: Time-serials Modelling on Eggs Prices in Peru**  
 Industry Partner: [La Calera SAC](https://www.lacalera.pe/)  
